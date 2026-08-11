@@ -1,7 +1,5 @@
-numpy==1.26.4
-pandas==2.2.2
-matplotlib==3.8.4
-seaborn==0.13.2
-scikit-learn==1.5.1
-transformers==4.41.2
-torch==2.2.2
+streamlit
+pandas
+numpy
+scikit-learn
+transformers
