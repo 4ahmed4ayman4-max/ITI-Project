@@ -1,5 +1,8 @@
 streamlit
-pandas
 numpy
+pandas
+matplotlib
+seaborn
 scikit-learn
-transformers
+catboost
+lightgbm
